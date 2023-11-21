@@ -30,7 +30,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I Like fixing bugs on my previous projects.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Edward-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edward-elisha/)
 
